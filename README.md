@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Sarthak Vaish, a passionate software developer...<br><br>- 📚 I'm currently learning Strapi, Typescript<br><br>- ⚡ Fun fact : I never commit<br><br>- Connect with me - sarthakvkumar@gmail.com</p>
+<p align="left">I'm Sarthak Vaish, a passionate software developer...<br><br>- 📚 I'm currently learning Typescript<br><br>- ⚡ Fun fact : I never commit<br><br>- Connect with me - sarthakvkumar@gmail.com</p>
 
 ###
 
